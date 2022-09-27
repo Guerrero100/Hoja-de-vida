@@ -1,0 +1,27 @@
+*{
+margin: 0%;
+}
+.co{
+    border-radius: 6px;
+    background-color:#E6F9FF;
+    margin: 8px;
+}
+
+.c1{
+    border-radius: 6px;
+    background-color:#E6F9FF;
+    
+}
+
+.Titulo{
+    background-color: #E6F9FF;
+    width: 100%;
+    height: 40px;
+    padding-top: 10px;
+    
+}
+
+.img{
+   width: 90px;
+   height: 90px;
+}
